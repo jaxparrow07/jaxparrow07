@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**jaxparrow07/jaxparrow07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I love to code and create new porjects based on java, python and bash. I currently in a lovely forum called [SupremeGamers](https://supreme-gamers.com/). I also like to play games with my friends.
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=jaxparrow07&show_icons=true)
+### Languages I use
+* Python
+* Java
+* Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Planning to learn
+* Javascript
+* HTML
+* CSS
+* C++
+
