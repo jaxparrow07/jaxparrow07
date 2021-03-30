@@ -8,9 +8,11 @@ I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I love to code
 * Java
 * Bash
 
-### Planning to learn
-* Javascript
+### Learning
 * HTML
 * CSS
+* Javscript
+
+### Planning to learn
 * C++
 
