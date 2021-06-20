@@ -1,8 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I love to code and create new porjects based on java, python and bash. I'm currently in a lovely forum called [SupremeGamers](https://supreme-gamers.com/). I also like to play games with my friends.
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=jaxparrow07&show_icons=true)
+I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I am main an app developer and I love to code and create new porjects based on java, python and bash. I'm currently in a lovely forum called [SupremeGamers](https://supreme-gamers.com/). I like playing games, listening to music and drawing.
+
+[Visit Portfolio](https://supreme-gamers.com/) to see my works or hire me for freelancing work
+
+![Jack's Github stats](https://github-readme-stats.vercel.app/api?username=jaxparrow07&show_icons=true)
 ### I can code in
 * Python
 * Java
