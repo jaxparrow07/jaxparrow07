@@ -10,9 +10,6 @@ I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I am Android a
 * Python
 * Java
 * Bash
-* HTML
-* CSS
-* Javscript
 
 ### Learning
 
