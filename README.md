@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I am Android app developer and I love to code and create new porjects based on java, python and bash. I'm currently in a lovely forum called [SupremeGamers](https://supreme-gamers.com/). I like playing games, listening to music and drawing.
+I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I am an Android app developer and I love to code and create new porjects based on java, python and bash. I'm currently in a lovely forum called [SupremeGamers](https://supreme-gamers.com/). I like playing games, listening to music and drawing.
 
 [Visit Portfolio](https://supreme-gamers.com/) to see my works or hire me for freelancing work
 
