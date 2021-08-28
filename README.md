@@ -19,5 +19,7 @@ I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I am an Androi
 * Kotlin
 
 ### Planning to learn
+* Rust
 * C++
+* C#
 
