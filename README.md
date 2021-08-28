@@ -6,10 +6,13 @@ I am <b>Jack Faith</b>, a 15 year old boy from Tamil Nadu, India. I am an Androi
 [Visit Portfolio](https://jaxparrow.tk/) to see my works or hire me for freelancing work
 
 ![Jack's Github stats](https://github-readme-stats.vercel.app/api?username=jaxparrow07&show_icons=true)
-### I can code in
-* Python
+### I can code in ( Beginner - Intermediate )
+* CSS
+* HTML
+* Javascript
 * Java
 * Bash
+* Python
 
 ### Learning
 
