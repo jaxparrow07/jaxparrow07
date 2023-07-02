@@ -22,8 +22,8 @@ It seems like I love to make extensions for platforms than work on my own projec
   - [Easy Audio Tagger](https://github.com/jaxparrow07/EasyAudioTagger)
 
 - Androidx86
-  - [Androidx86 Installer for Linux (top repo)](https://github.com/axonasif/gearlock)
-  - Gearlock extensions ( [Gearlock](https://github.com/axonasif) is a recovery-like software for android x86 )
+  - [Androidx86 Installer for Linux (top repo)](https://github.com/jaxparrow07/Androidx86-Installer-Linux)
+  - Gearlock extensions ( [Gearlock](https://github.com/axonasif/gearlock) is a recovery-like software for android x86 )
       - [Energized](https://github.com/jaxparrow07/g-energized) • [Swapper](https://github.com/jaxparrow07/g-extensions/tree/main/Swapper) • [XAPK Installer](https://github.com/jaxparrow07/g-extensions/tree/main/XAPK%20Installer) • [Font Fix](https://github.com/jaxparrow07/g-extensions/tree/main/FontFix%20-%20Font%20Update) • [App Backup & Restore](https://github.com/jaxparrow07/g-extensions/tree/main/Backup%20and%20Restore)
 
 - Android
