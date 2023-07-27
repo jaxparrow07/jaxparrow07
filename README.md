@@ -9,8 +9,9 @@ About me:
 
 - FUN FACT: I really like stars
 - ANOTHER FUN FACT: I'm pretty bad at naming things and keeping them consistent ( these repos are an example )
+<details>
+  <summary>➜ Projects</summary>
 
-**Projects**
 
 It seems like I love to make extensions for platforms than work on my own projects ._.
 
@@ -32,3 +33,5 @@ It seems like I love to make extensions for platforms than work on my own projec
 
 - Experiments
   - [HighPix](https://github.com/jaxparrow07/High-Pix)
+
+</details>
