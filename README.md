@@ -1,16 +1,15 @@
-### Hola! idk spanish 👋
+### Hola!
 
-About me:
-- I'm a student, and I write code in my free-time
-- Hobbies
-  - Art ( mostly tradional )
-  - Writing
-  - Music
+![export](https://github.com/jaxparrow07/jaxparrow07/assets/36300128/abc4b738-2e66-4280-8d85-69576e6910cb)
+```
+Student, working on tiny projects. Other than coding, I like to do art, music, and designing.
+In coding, I like android development ( android in general ), web dev, and general scripting.
 
-- FUN FACT: I really like stars
-- ANOTHER FUN FACT: I'm pretty bad at naming things and keeping them consistent ( these repos are an example )
+Andddd, I love to write poems, and maybe overuse emojis.
+```
+<br>
 <details>
-  <summary>➜ Projects</summary>
+  <summary>➜ Wanna check out my work?</summary>
 
 
 It seems like I love to make extensions for platforms than work on my own projects ._.
