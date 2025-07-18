@@ -1,7 +1,9 @@
 ### Hola!
 
-![export](https://github.com/jaxparrow07/jaxparrow07/assets/36300128/abc4b738-2e66-4280-8d85-69576e6910cb)
+<img width="1280" height="400" alt="Project" src="https://github.com/user-attachments/assets/fe56ae86-d6d2-4fa1-af96-2d583f0781eb" />
+
 ```
+
 Student, working on tiny projects. Other than coding, I like to do art, music, and designing.
 In coding, I like android development ( android in general ), web dev, and general scripting.
 ```
