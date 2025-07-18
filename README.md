@@ -3,7 +3,6 @@
 <img width="1280" height="400" alt="Project" src="https://github.com/user-attachments/assets/fe56ae86-d6d2-4fa1-af96-2d583f0781eb" />
 
 ```
-
 Student, working on tiny projects. Other than coding, I like to do art, music, and designing.
 In coding, I like android development ( android in general ), web dev, and general scripting.
 ```
